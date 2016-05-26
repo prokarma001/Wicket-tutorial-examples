@@ -25,6 +25,7 @@
 	<description>The project is intended to provide code examples for the freely available Wicket tutorial</description>
 	<properties>
 		<wicket.version>7.2.0</wicket.version>
+		<tomcat.version>8.0.30</tomcat.version>
 		<jetty9.version>9.2.0.v20140526</jetty9.version>
 		<log4j.version>1.2.17</log4j.version>
 		<slf4j.version>1.7.7</slf4j.version>
@@ -64,31 +65,31 @@
 		<module>PageVersioning</module>
 		<module>UsernameCustomValidator</module>
 		<module>CustomDatepicker</module>
-                <module>InterComponetsEventsExample</module>
-    		<module>EjbInjectionExample</module>
+        <module>InterComponetsEventsExample</module>
+   		<module>EjbInjectionExample</module>
 		<module>BasicModalWindowExample</module>
-    		<module>AjaxEventBehaviorExample</module>
-    		<module>CustomAjaxListenerExample</module>
-    		<module>SpringInjectionExample</module>
-                <module>PageDataViewExample</module>
-    		<module>PageParametersEncoderExample</module>
-	    	<module>BasicAuthenticationExample</module>
-	    	<module>MetaDataRolesStrategyExample</module>
-	    	<module>AnnotationsRolesStrategyExample</module>
-	    	<module>CustomFolder4MarkupExample</module>
-	    	<module>HttpsProtocolExample</module>   
-	    	<module>CheckBoxAjaxTree</module>
-    		<module>MarkupInheritanceExample</module>
-    		<module>CustomDatepickerAjax</module>
-    		<module>HelloWorldExample</module>
-    		<module>OnComponentTagExample</module>
-    		<module>TestAjaxEventsExample</module>
+   		<module>AjaxEventBehaviorExample</module>
+   		<module>CustomAjaxListenerExample</module>
+   		<module>SpringInjectionExample</module>
+        <module>PageDataViewExample</module>
+   		<module>PageParametersEncoderExample</module>
+    	<module>BasicAuthenticationExample</module>
+    	<module>MetaDataRolesStrategyExample</module>
+    	<module>AnnotationsRolesStrategyExample</module>
+    	<module>CustomFolder4MarkupExample</module>
+    	<module>HttpsProtocolExample</module>   
+    	<module>CheckBoxAjaxTree</module>
+   		<module>MarkupInheritanceExample</module>
+   		<module>CustomDatepickerAjax</module>
+   		<module>HelloWorldExample</module>
+   		<module>OnComponentTagExample</module>
+   		<module>TestAjaxEventsExample</module>
 	    <module>TagTesterExample</module>
 	    <module>LocalizedChoicesExample</module>
 	    <module>CallbackURLExample</module>
 	    <module>JSR303validation</module>
 	    <module>ScriptInsideBody</module>
-    <module>StarterExamples</module>
+    	<module>StarterExamples</module>
   </modules>	
 	<!--url>http://wicket.apache.org/${project.artifactId}</url-->
 	<inceptionYear>2012</inceptionYear>	
